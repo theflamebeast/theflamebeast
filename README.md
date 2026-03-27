@@ -12,7 +12,7 @@
 ## 🏰 Minecraft Server – Custom PurpurMC Server
 A fully configured Minecraft survival server with custom mobs, items, and gameplay enhancements.
 
-- 🧩 Integrated 100+ plugins for economy, combat, and quality-of-life improvements
+- 🧩 Integrated 100+ plugins for various features such as economy and combat, including some custom-coded paper and velocity plugins
 - ⚔️ Designed custom mobs, item drops, and boss fights
 - 🔧 Managed server performance, permissions, and file structure for smooth gameplay
 
