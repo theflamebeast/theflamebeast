@@ -16,7 +16,7 @@ A fully configured Minecraft survival server with custom mobs, items, and gamepl
 - ⚔️ Designed custom mobs, item drops, and boss fights
 - 🔧 Managed server performance, permissions, and file structure for smooth gameplay
 
-*Technologies:* [PurpurMC](https://github.com/PurpurMC), [YAML Config](https://yaml.org), [MythicMobs](https://git.mythiccraft.io/mythiccraft/MythicMobs), [Skript](https://github.com/SkriptLang/Skript), [Java](https://www.java.com/en/)
+*Technologies:* [PurpurMC](https://github.com/PurpurMC), [Java](https://www.java.com/en/), [YAML Config](https://yaml.org), [MythicMobs](https://git.mythiccraft.io/mythiccraft/MythicMobs), [Skript](https://github.com/SkriptLang/Skript)
 
 
 ## 🔥 Flame Client – Python Utility Client for Minecraft
